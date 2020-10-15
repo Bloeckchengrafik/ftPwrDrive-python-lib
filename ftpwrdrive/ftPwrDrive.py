@@ -5,6 +5,7 @@ class ftPwrDrive:
 
     def __init__(self, dev, txt):
         # definitions
+
         self.__CMD_SETWATCHDOG = 0  # void setWatchdog( long interval )                                  set watchdog timer
 
         self.__CMD_SETMICROSTEPMODE = 1  # void setMicrostepMode( mode )                                      set microstep mode - FILLSTEP, HALFSTEP, QUARTERSTEP, EIGTHSTEP, SIXTEENTHSTEP

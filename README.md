@@ -1,6 +1,7 @@
 _NOTE: This is the copied Python Lib, its originally hosted at https://github.com/Bloeckchengrafik/ftPwrDrive-python-lib_
 <br />_Install using `pip install ftPwrDrive` or similar_
 # ftPwrDrive
+
 The ftPwrDrive is a i²c based stepper motor driver for fischertechnik, Arduino &amp; Raspberry. The project contains the stepper motor drivers hardware, the firmware and interface libraries to use the hardware with multiple plattforms.
 
 Please checkout the <a href="https://github.com/elektrofuzzis/ftPwrDrive/wiki">online manual</a>. Since the hardware is a complex smd pcb, you could buy a plug&play device at <a href="https://gundermann-software.de/shop/">gundermann.org</a>.
