@@ -4,7 +4,6 @@ import struct
 class ftPwrDrive:
 
     def __init__(self, dev, txt):
-
         # definitions
         self.__CMD_SETWATCHDOG = 0  # void setWatchdog( long interval )                                  set watchdog timer
 
